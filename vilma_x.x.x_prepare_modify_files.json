@@ -1,0 +1,70 @@
+{
+  "config": {
+    "first_config": {
+      "copy_method": "copy",
+      "dest": "/path/to/destination/of/config/file",
+      "src": "/path/to/config/file"
+    },
+    "second_config": {
+      "copy_method": "copy",
+      "dest": "/path/to/destination/of/config/file",
+      "src": "/path/to/config/file"
+    },
+    "third_config": {
+      "copy_method": "copy",
+      "dest": "/path/to/destination/of/config/file",
+      "src": "/path/to/config/file"
+    }
+  },
+  "forcing": {
+    "first_forcing": {
+      "copy_method": "copy",
+      "dest": "/path/to/destination/of/forcing/file",
+      "src": "/path/to/forcing/file"
+    },
+    "second_forcing": {
+      "copy_method": "copy",
+      "dest": "/path/to/destination/of/forcing/file",
+      "src": "/path/to/forcing/file"
+    },
+    "third_forcing": {
+      "copy_method": "copy",
+      "dest": "/path/to/destination/of/forcing/file",
+      "src": "/path/to/forcing/file"
+    }
+  },
+  "input": {
+    "first_input": {
+      "copy_method": "copy",
+      "dest": "/path/to/destination/of/input/file",
+      "src": "/path/to/input/file"
+    },
+    "second_input": {
+      "copy_method": "copy",
+      "dest": "/path/to/destination/of/input/file",
+      "src": "/path/to/input/file"
+    },
+    "third_input": {
+      "copy_method": "copy",
+      "dest": "/path/to/destination/of/input/file",
+      "src": "/path/to/input/file"
+    }
+  },
+  "restart": {
+    "first_restart": {
+      "copy_method": "copy",
+      "dest": "/path/to/destination/of/restart/file",
+      "src": "/path/to/restart/file"
+    },
+    "second_restart": {
+      "copy_method": "copy",
+      "dest": "/path/to/destination/of/restart/file",
+      "src": "/path/to/restart/file"
+    },
+    "third_restart": {
+      "copy_method": "copy",
+      "dest": "/path/to/destination/of/restart/file",
+      "src": "/path/to/restart/file"
+    }
+  }
+}

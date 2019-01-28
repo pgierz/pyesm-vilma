@@ -1,0 +1,14 @@
+{
+  "outdata": {
+    "first_output": {
+      "dest": "@EXPID@_@NAME@_name_of_output_file_@DATE@.nc",
+      "src": "name_of_output_file"
+    }
+  },
+  "restart": {
+    "first_restart": {
+      "dest": "@EXPID@_@NAME_restart1_@DATE@.nc",
+      "src": "name_of_restart"
+    }
+  }
+}
